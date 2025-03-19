@@ -1,0 +1,6 @@
+docling-core
+gradio
+mlx-vlm
+pillow
+requests
+beautifulsoup4
