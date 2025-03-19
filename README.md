@@ -80,7 +80,7 @@ The application uses the `ds4sd/SmolDocling-256M-preview-mlx-bf16` model.
 
 ## Future Plans
 
-*   Add more output formats (e.g., JSON, PDF, LaTeX, etc.).
+*   Add more input formats (e.g., JSON, PDF, LaTeX, etc.).
 *   Improve error handling and logging.
 *   Enhance the user interface.
 *   Add CLI support.
