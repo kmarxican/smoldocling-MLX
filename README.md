@@ -19,8 +19,8 @@ This project provides a web application for converting images of documents into 
 1.  Clone the repository:
 
     ```bash
-    git clone <repository_url>
-    cd <repository_directory>
+    git clone https://github.com/kmarxican/smoldocling-MLX.git
+    cd smoldocling-MLX
     ```
 
 2.  Create a virtual environment (optional but recommended):
